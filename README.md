@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Nikhil Kumar 👋
 
-<!--
-**nikhilkumar0224/nikhilkumar0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Full Stack Developer | Auckland, New Zealand
 
-Here are some ideas to get you started:
+I'm a junior developer currently building my skills in full-stack web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 New Zealand Diploma in Web Development & Design  
+🎓 New Zealand Diploma in Software Development  
+🚀 Currently completing Full Stack Developer training with Mission Ready
+
+### 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- React Router
+- CSS Modules
+- Git
+- GitHub
+- Vite
+- VS Code
+
+### 🚀 Featured Projects
+
+- JavaScript Portfolio Project
+- Mission 1 Responsive Web Project
+- React Student Dashboard / Project Submission
+
+### 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/nikhilkumarnz/
+- GitHub: https://github.com/nikhilkumar0224
